@@ -1,6 +1,8 @@
 # An Introduction to Exponential Smoothing in Python
 
-This meetup will give a general overview of forecasting methodologies, then delve into implementing exponential smoothing in Python.
+This meetup notebook will give a general overview of forecasting methodologies, then delve into implementing exponential smoothing in Python.
+
+
 
 To use this notebook:
 - if you have Anaconda installed: <br>
