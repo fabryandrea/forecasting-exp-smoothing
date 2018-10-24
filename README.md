@@ -3,12 +3,12 @@
 This meetup will give a general overview of forecasting methodologies, then delve into implementing exponential smoothing in Python.
 
 To use this notebook:
-- if you have Anaconda installed:
+- if you have Anaconda installed: <br>
   install pylab
   
   conda install pylab
   
-- if you have Docker installed:
+- if you have Docker installed: <br>
   pull the image from the Docker repository
   
   docker pull jupyter/datascience-notebook
